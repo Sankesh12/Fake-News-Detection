@@ -52,25 +52,29 @@
 
 # 📸 Project Screenshots
 
-![image alt](https://github.com/Sankesh12/Iris-Flower-Classification/blob/main/iris3.png)
+![image alt](https://github.com/Sankesh12/Fake-News-Detection/blob/main/fake5.png)
+![image alt](https://github.com/Sankesh12/Fake-News-Detection/blob/main/fake6.png)
 
-📈 Model Performance
-Model achieved good accuracy
-Logistic Regression performed well for text classification
-🌐 Deployment
-Model and vectorizer saved using Joblib
-Integrated into Streamlit Web App
-Users can:
-Enter any news article
-Click Check News
-Get result (Fake or Real) instantly
-▶️ How to Run the Project
-Install dependencies
-pip install -r requirements.txt
-Run Streamlit App
-streamlit run app.py
-🔮 Future Improvements
-Try advanced models (Naive Bayes, LSTM, BERT)
-Improve UI design
-Add confidence score
-Deploy online (Streamlit Cloud / Render)
+# 📈 Model Performance
+- Model achieved good accuracy
+- Logistic Regression performed well for text classification
+
+# 🌐 Deployment
+- Model and vectorizer saved using Joblib
+- Integrated into Streamlit Web App
+
+# Users can:
+- Enter any news article
+- Click Check News
+- Get result (Fake or Real) instantly
+
+# ▶️ How to Run the Project
+## ##Install dependencies
+- pip install -r requirements.txt
+## ##Run Streamlit App
+- streamlit run app.py
+
+# 🔮 Future Improvements
+- Try advanced models (Naive Bayes, LSTM, BERT)
+- Improve UI design
+- Add confidence score
