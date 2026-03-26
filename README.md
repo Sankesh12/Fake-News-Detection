@@ -1,6 +1,6 @@
 # 📰 Fake News Detection
 
-- A Machine Learning based web application that detects whether a news article is Fake or Real.
+- A Machine Learning based web application that detects whether a news article is Fake or Real using NLP (Natural Language Processing).
 
 # 🚀 Project Overview
 
@@ -13,6 +13,7 @@
 - Pandas
 - NumPy
 - Scikit-learn
+- NLP (Natural Language Processing)
 - TF-IDF Vectorizer
 - Logistic Regression
 - Streamlit
