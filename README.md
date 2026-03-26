@@ -72,7 +72,7 @@
 ## ##Install dependencies
 - pip install -r requirements.txt
 ## ##Run Streamlit App
-- streamlit run app.py
+- streamlit run fake_news.py
 
 # 🔮 Future Improvements
 - Try advanced models (Naive Bayes, LSTM, BERT)
