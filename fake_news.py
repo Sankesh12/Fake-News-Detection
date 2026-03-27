@@ -4,6 +4,12 @@ import joblib
 vectorizer = joblib.load("vectorizer.jb")
 model = joblib.load("model.jb")
 
+st.set_page_config(
+    page_title="Fake News Detection",
+    page_icon="📰",
+    layout="centered"
+)
+
 st.title("📰 Fake News Detection")
 st.write("Enter a News Article below to check whether it is Fake or Real")
 
